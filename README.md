@@ -1,7 +1,9 @@
 ### Hi there, I'm Larissa Adler 👋
 
 #### About
-I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/).
+I'm a Web Developer, currently studying it at [Rocketseat](https://www.rocketseat.com.br/).
+
+I'm also graduated in Systems Analysis and Development at [Estácio](https://estacio.br/) College.
 
 #### Current stack
 - ⚡️ Main Language: `Javascript`
